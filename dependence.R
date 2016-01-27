@@ -1,4 +1,4 @@
-library(rstan)
+library(rstan) #blah
 library(coda)
 
 # like sum() but with less cancelation error

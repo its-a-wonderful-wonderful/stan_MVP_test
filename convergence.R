@@ -1,5 +1,5 @@
 library(rstan) # another commenting commit test thing
-library(energy)
+library(energy) # a third comment! mwahahaha
 library(boot)
 library(parallel)
 
